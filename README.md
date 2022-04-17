@@ -1,4 +1,4 @@
-# instagram-clone
+# newsletter-app
 MySQL and web app learning project
 
 Goals: 
